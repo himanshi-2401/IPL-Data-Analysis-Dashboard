@@ -16,4 +16,4 @@ This Power BI dashboard analyzes IPL (Indian Premier League) data from 2008 to 2
 - Kaggle IPL Dataset
 
 ## Dashboard Preview
-![Dashboard](IPL_Dashboard.JPEG)
+![Dashboard](IPL_Dashboard.jpeg)
